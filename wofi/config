@@ -1,0 +1,16 @@
+width=400
+height=3000
+lines=26
+mode=drun
+filter_rate=100
+matching=contains
+insensitive=true
+term=kitty
+allow_images=true
+parse_search=true
+allow_markup=true
+dmenu-parse_action=true
+drun-display_generic=true
+key_down=Tab
+key_expand=Right
+key_forward=Down
